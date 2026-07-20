@@ -1,6 +1,8 @@
 # cs2_cfg_manager
 简易化管理本地电脑的CS2配置文件多版本备份，以及在本地多个Steam账号下一键同步配置文件。
+
 <img width="822" height="752" alt="498bb4b4-4eaf-4325-a679-7bf9b6a4de8a" src="https://github.com/user-attachments/assets/0d6103c0-350c-4b1b-8bbf-355986c3ada2" />
+
 说明：
 1. 无须登录，不联网，全部本地实现，只对文件目录进行操作，无任何安全风险。
 2. 对全局配置、用户配置的多版本备份与管理。
